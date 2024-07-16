@@ -1,3 +1,4 @@
+from json import loads
 from decouple import config
 from groq import Groq
 
@@ -10,7 +11,7 @@ class LLM:
             self.groq_client = Groq(api_key=api_key)
             self.groq_model = groq_model
     
-    def prompt_llm(self,prompt,max_retries=5):
+    def json_prompt_llm(self,prompt):
         """
         returns llm response based on prompt
         """
@@ -28,9 +29,12 @@ class LLM:
                         temperature = 0.0,
                         model=self.groq_model,
                         )
-             
+
+            llm_response = llm_response_string = str(chat_completion.choices[0].message.content)
+            json_object_in_response = '{'+response.split('{')[1].split('}')[0]+'}'
+            return loads(json_object_in_response)
 
         except Exception:
-            print ("Unsupported LLM api")
+            print ("Unsupported LLM api or JSON parsing error ...")
             exit()
     
