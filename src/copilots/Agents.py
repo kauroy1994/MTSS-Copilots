@@ -4,12 +4,14 @@ from groq import Groq
 
 class LLM:
 
-    def __init__(self,role='School_Counselor',api='GROQ',groq_model="mixtral-8x7b-32768"):
+    def __init__(self,role=None,api='GROQ',groq_model="mixtral-8x7b-32768"):
 
         if api == 'GROQ':
             api_key = config('GROQ_API_KEY')
             self.groq_client = Groq(api_key=api_key)
             self.groq_model = groq_model
+
+        self.role = role
     
     def json_prompt_llm(self,prompt):
         """

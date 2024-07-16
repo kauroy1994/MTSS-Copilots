@@ -1,4 +1,5 @@
 import os
+from random import choice
 from assets.DataUtils import DataLoader
 
 class MTSS_QA:
@@ -7,7 +8,12 @@ class MTSS_QA:
     def run_demo():
 
         mtss_text_data = DataLoader.read_data()
-        print (len(mtss_text_data)); input()
+        user_role = choice(list(DataLoader.system_templates.keys()))
+        system_role = choice(list(DataLoader.system_templates.keys()))
+
+        if not user_role is system_role:
+            print ("role mismatch ... ")
+            return
 
 if __name__ == '__main__':
     try:
