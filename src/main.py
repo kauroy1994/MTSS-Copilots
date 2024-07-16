@@ -7,13 +7,14 @@ class MTSS_QA:
     @staticmethod
     def run_demo():
 
-        mtss_text_data = DataLoader.read_data()
         user_role = choice(list(DataLoader.system_templates.keys()))
         system_role = choice(list(DataLoader.system_templates.keys()))
 
         if not user_role is system_role:
             print ("role mismatch ... ")
             return
+
+        mtss_text_data = DataLoader.read_data()
 
 if __name__ == '__main__':
     try:
