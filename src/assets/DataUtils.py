@@ -1,3 +1,4 @@
+import re
 class DataLoader:
 
     @staticmethod
@@ -5,8 +6,9 @@ class DataLoader:
 
         f = open('/teamspace/studios/this_studio/MTSS-Copilots/src/assets/Final_txt_document_course.txt')
         f_lines = f.read().splitlines()
+        f_str = ''.join([re.sub(r'[^A-Za-z0-9 ]+', '' ,line) for line in f_lines if re.sub(r'[^A-Za-z0-9 ]+', '' ,line)])
         f.close()
-        return f_lines
+        return f_str
 
     system_templates = {
         "School_Administrators": """You assist School Administrators whose job role is to ensures there is an MTSS team to design the school-wide implementation process, progress monitoring protocols, and data collection procedures.""",
