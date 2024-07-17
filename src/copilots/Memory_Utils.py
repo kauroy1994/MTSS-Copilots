@@ -202,12 +202,8 @@ class Retr:
             symbolic_context += Retr.retrieve_context_symbolic(text_splits,query,symb_model)
         return neural_context + symbolic_context
 
-class Memory:
+class Knowledge_Representation:
 
     @staticmethod
-    def organzie(text):
-        pass
-
-    @staticmethod
-    def retrieve():
+    def create(text):
         pass
