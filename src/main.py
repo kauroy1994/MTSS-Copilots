@@ -8,13 +8,6 @@ class MTSS_QA:
     @staticmethod
     def run_demo():
 
-        user_role = choice(list(DataLoader.system_templates.keys()))
-        system_role = choice(list(DataLoader.system_templates.keys()))
-
-        if not user_role is system_role:
-            print ("role mismatch ... ")
-            return
-
         mtss_text_data = DataLoader.read_data()
         mtss_data_repr = Knowledge_Representation.create(mtss_text_data)
         print (mtss_data_repr)
