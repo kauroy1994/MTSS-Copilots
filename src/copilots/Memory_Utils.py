@@ -18,7 +18,7 @@ from rouge_score import rouge_scorer
 nltk.download('punkt')
 nltk.download('wordnet')
 
-class Organizer:
+class Cluster_Model:
     
     def __init__(self,max_depth=4):
         self.max_depth = max_depth
@@ -205,5 +205,9 @@ class Retr:
 class Knowledge_Representation:
 
     @staticmethod
-    def create(text):
-        pass
+    def create(article_text):
+        
+        cluster_obj = Cluster_Model() #levels default = 4
+        text_splits = Text_Preprocessor.text_splitter(article_text)
+        text_split_vectors = [Neural_Net().vectorize(split) for split in tqdm(text_splits)]
+        clusters = cluster_obj.cluster(text_split_vectors)
