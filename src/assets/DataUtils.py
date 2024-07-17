@@ -10,6 +10,13 @@ class DataLoader:
         f.close()
         return f_str
 
+	queries = {"School_Administrators": ["Briefly describe MTSS and the process of integrating behavioral health support into an existing academic framework.",
+	"Discuss the importance of integrating behavioral health into a tiered academic support framework.",
+	"Discuss the barriers to implement an integrated MTSS framework.",
+	"What are the key concepts in implementing an effective integrated MTSS?",
+	"We are just starting with MTSS. What are the core features of the framework. Where should we begin?",
+	"I need family voice that represents our diverse school community.  I have lots of input from a vocal but small minority of parents expressing concerns about integrating positive health and wellness (SEL) in our Tier 1 curriculum. I believe most families are in favor of this, but they are not as vocal. What can I do to get more diverse voices especially around positive health and wellness (SEL)?",]}
+
     system_templates = {
         "School_Administrators": """You assist School Administrators whose job role is to ensures there is an MTSS team to design the school-wide implementation process, progress monitoring protocols, and data collection procedures.""",
         "Clinical_Staff": """You assist Clinical Staff whose job role involves the following:
