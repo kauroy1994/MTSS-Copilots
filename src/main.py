@@ -1,6 +1,7 @@
 import os
 from random import choice
 from assets.DataUtils import DataLoader
+from copilots.Memory_Utils import Knowledge_Representation
 
 class MTSS_QA:
 
@@ -15,6 +16,8 @@ class MTSS_QA:
             return
 
         mtss_text_data = DataLoader.read_data()
+        mtss_data_repr = Knowledge_Representation.create(mtss_text_data)
+        print (mtss_data_repr)
 
 if __name__ == '__main__':
     try:
