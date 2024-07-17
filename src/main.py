@@ -1,7 +1,7 @@
 import os
 from random import choice
 from assets.DataUtils import AssetLoader
-from copilots.Memory_Utils import Knowledge_Representation
+from copilots.Memory_Utils import Knowledge_Representation, Retr, Symbolic_Model
 from copilots.Agents import LLM
 
 class MTSS_Copilot:
@@ -21,9 +21,10 @@ class MTSS_Copilot:
     def simulate_QA_agent_turn(user_role, user_query, data):
 
         llm_response = None
+        context = Retr.retrieve_context(data,user_query,symb_model=Symbolic_Model(),top_k=1)
         system_template = AssetLoader.get_templates()[user_role]
         llm = LLM()
-        llm.set_prompt(system_template,user_query,data)
+        llm.set_prompt(system_template,user_query,context)
         llm_response = llm.respond_to_prompt()
         return system_template, llm_response
 
@@ -40,7 +41,7 @@ class MTSS_Copilot:
             print ('user role:', user_role)
             print ('user_query', user_query)
             
-            agent_instructions, agent_response = MTSS_Copilot.simulate_QA_agent_turn(user_role, user_query, mtss_text_data)
+            agent_instructions, agent_response = MTSS_Copilot.simulate_QA_agent_turn(user_role, user_query, mtss_data_repr)
             print ('\n ===== SYSTEM INSTRUCTIONS ===== \n',agent_instructions)
             print ('\n ===== SYSTEM RESPONSE ===== \n',agent_response)
 
