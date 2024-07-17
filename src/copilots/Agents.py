@@ -4,19 +4,47 @@ from groq import Groq
 
 class LLM:
 
-    def __init__(self,role=None,api='GROQ',groq_model="mixtral-8x7b-32768"):
+    def __init__(self,api='GROQ',groq_model="mixtral-8x7b-32768"):
 
         if api == 'GROQ':
             api_key = config('GROQ_API_KEY')
             self.groq_client = Groq(api_key=api_key)
             self.groq_model = groq_model
 
-        self.role = role
-    
-    def json_prompt_llm(self,prompt):
+    def set_prompt(self,system_template,user_query,context):
+
+        prompt = f"""
+        Consider the user query below:
+
+        ------ USER QUERY -----
+
+        {user_query}
+
+        Consider the following relevant context:
+
+        ------ CONTEXT ------
+
+        {context}
+
+        Your role is as follows:
+
+        {system_template}
+
+        Given the context and your role, respond to the user query.
+        Make sure to respond in JSON format as follows
+
+        {{"Response": "your response"}}
+
+        """   
+
+        self.prompt = prompt     
+
+    def respond_to_prompt(self):
         """
         returns llm response based on prompt
         """
+
+        prompt = self.prompt
 
         try:
 

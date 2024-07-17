@@ -20,9 +20,12 @@ class MTSS_Copilot:
     @staticmethod
     def simulate_QA_agent_turn(user_role, user_query, data):
 
-        response = None
+        llm_response = None
         system_template = AssetLoader.get_templates()[user_role]
-        return system_template, response
+        llm = LLM()
+        llm.set_prompt(system_template,user_query,data)
+        llm_response = llm.respond_to_prompt()
+        return system_template, llm_response
 
     @staticmethod
     def run_demo(turns = 2):
@@ -37,9 +40,9 @@ class MTSS_Copilot:
             print ('user role:', user_role)
             print ('user_query', user_query)
             
-            system_template, response = MTSS_Copilot.simulate_QA_agent_turn(user_role, user_query, mtss_data_repr)
-            print ('\n ===== SYSTEM INSTRUCTIONS ===== \n',system_template)
-
+            agent_instructions, agent_response = MTSS_Copilot.simulate_QA_agent_turn(user_role, user_query, mtss_data_repr)
+            print ('\n ===== SYSTEM INSTRUCTIONS ===== \n',agent_instructions)
+            print ('\n ===== SYSTEM RESPONSE ===== \n',agent_response)
 
 if __name__ == '__main__':
     try:
