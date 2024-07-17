@@ -3,6 +3,7 @@ import json
 import torch
 import time
 import nltk
+import re
 import torch.nn as nn
 from flair.embeddings import TransformerDocumentEmbeddings
 from flair.data import Sentence
@@ -211,3 +212,4 @@ class Knowledge_Representation:
         text_splits = Text_Preprocessor.text_splitter(article_text)
         text_split_vectors = [Neural_Net().vectorize(split) for split in tqdm(text_splits)]
         clusters = cluster_obj.cluster(text_split_vectors)
+        return clusters
