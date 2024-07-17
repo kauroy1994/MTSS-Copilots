@@ -77,8 +77,8 @@ class LLM:
                         )
 
             llm_response = llm_response_string = str(chat_completion.choices[0].message.content)
-            json_object_in_response = '{'+llm_response.split('{')[1].split('}')[0]+'}'
-            return loads(json_object_in_response)
+            #json_object_in_response = '{'+llm_response.split('{')[1].split('}')[0]+'}'
+            return llm_response
 
         except Exception as e:
             print (e)
