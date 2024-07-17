@@ -184,12 +184,12 @@ class Retr:
         """
         retrieves top k context based on symbolic search
         """
-
-        query_vector = symb_model.vectorize(random_question); query_vectors = [query_vector for _ in range(len(text_splits))]
-        split_vectors = [symb_model.vectorize(split) for split in text_splits]
-        similarities = [symb_model.vector_similarity(x[0],x[1]) for x in zip(query_vectors,split_vectors)]
-        top_3_idxs = [similarities.index(y) for y in sorted(similarities)[::-1][:top_k]]
-        return [text_splits[idx] for idx in top_3_idxs]
+        n = len(text_splits)
+        query_vector = symb_model.vectorize(random_question); query_vectors = [query_vector for _ in tqdm(range(n))]
+        split_vectors = [symb_model.vectorize(split) for split in tqdm(text_splits)]
+        similarities = [symb_model.vector_similarity(x[0],x[1]) for x in tqdm(zip(query_vectors,split_vectors))]
+        top_idxs = [similarities.index(y) for y in sorted(similarities)[::-1][:top_k]]
+        return [text_splits[idx] for idx in top_idxs]
 
     def retrieve_context(text_splits,query,neural_net=None,symb_model=None,top_k = 3):
         """
@@ -197,9 +197,9 @@ class Retr:
         """
         neural_context, symbolic_context = [], []
         if not neural_net is None:
-            neural_context += Retr.retrieve_context_neural(text_splits,query,neural_net)
+            neural_context += Retr.retrieve_context_neural(text_splits,query,neural_net,top_k=top_k)
         if not symb_model is None:
-            symbolic_context += Retr.retrieve_context_symbolic(text_splits,query,symb_model)
+            symbolic_context += Retr.retrieve_context_symbolic(text_splits,query,symb_model,top_k=top_k)
         return neural_context + symbolic_context
 
 class Knowledge_Representation:

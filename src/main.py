@@ -21,7 +21,7 @@ class MTSS_Copilot:
     def simulate_QA_agent_turn(user_role, user_query, data):
 
         llm_response = None
-        context = Retr.retrieve_context(data,user_query,symb_model=Symbolic_Model(),top_k=1)
+        context = Retr.retrieve_context(data,user_query,symb_model=Symbolic_Model(),top_k=1)[0]
         system_template = AssetLoader.get_templates()[user_role]
         llm = LLM()
         llm.set_prompt(system_template,user_query,context)
@@ -29,10 +29,21 @@ class MTSS_Copilot:
         return system_template, llm_response
 
     @staticmethod
+    def simulate_summary_agent(total_information):
+
+        llm_response = None
+        llm = LLM()
+        llm.set_prompt(system_template="summary template",content=total_information)
+        llm_response = llm.respond_to_prompt()
+        return llm_response
+
+    @staticmethod
     def run_demo(turns = 2):
         
         mtss_text_data = AssetLoader.read_data()
         mtss_data_repr = Knowledge_Representation.organize_data(mtss_text_data)
+
+        total_information = ""
 
         for _ in range(turns):
             user_role, user_query = MTSS_Copilot.simulate_user_turn()
@@ -42,8 +53,12 @@ class MTSS_Copilot:
             print ('user_query', user_query)
             
             agent_instructions, agent_response = MTSS_Copilot.simulate_QA_agent_turn(user_role, user_query, mtss_data_repr)
+            total_information += str(agent_response)
             print ('\n ===== SYSTEM INSTRUCTIONS ===== \n',agent_instructions)
             print ('\n ===== SYSTEM RESPONSE ===== \n',agent_response)
+
+        summary_agent_response = MTSS_Copilot.simulate_summary_agent(total_information)
+        print ('\n ===== INFORMATION SUMMARY ===== \n',summary_agent_response)
 
 if __name__ == '__main__':
     try:

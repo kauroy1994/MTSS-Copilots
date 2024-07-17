@@ -11,7 +11,7 @@ class LLM:
             self.groq_client = Groq(api_key=api_key)
             self.groq_model = groq_model
 
-    def set_prompt(self,system_template,user_query,context):
+    def set_prompt(self,system_template=None,user_query=None,context=None,content=None):
 
         prompt = f"""
         Consider the user query below:
