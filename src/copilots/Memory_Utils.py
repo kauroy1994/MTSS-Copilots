@@ -18,6 +18,103 @@ from rouge_score import rouge_scorer
 nltk.download('punkt')
 nltk.download('wordnet')
 
+class Organizer:
+    
+    def __init__(self,max_depth=4):
+        self.max_depth = max_depth
+        self.index = {}
+        self.clusters = {}
+        self.cos = nn.CosineSimilarity(dim=0, eps=1e-6)
+
+    def find_closest_and_avg(self):
+
+        min_sim, closest_pair = 1.0, (0,0)
+        min_i, min_j = None, None
+        for frozen_vector_i in self.index:
+            v_i = torch.tensor(list(frozen_vector_i))
+            v_i_idx = self.index[frozen_vector_i]
+            for frozen_vector_j in self.index:
+                v_j = torch.tensor(list(frozen_vector_j))
+                v_j_idx = self.index[frozen_vector_j]
+                if v_i_idx == v_j_idx:
+                    continue
+                sim_i_j = self.cos(v_i,v_j)
+                if sim_i_j <= min_sim:
+                    min_sim = sim_i_j
+                    closest_pair = (v_i_idx,v_j_idx)
+                    min_i, min_j = v_i, v_j
+
+        vector_pair = torch.stack([min_i,min_j])
+        mean_repr = torch.mean(vector_pair,dim=0)
+        return mean_repr, (closest_pair,min_sim)
+
+    def cluster(self,demo_text_split_vectors,cut_threshold=0.0):
+        n_vectors = len(demo_text_split_vectors)
+        splits = [str(item)+';' for item in range(n_vectors)]
+        for i in range(n_vectors):
+            vector = demo_text_split_vectors[i]
+            self.index[frozenset(vector.tolist())] = i
+
+        level = 0
+        while True:
+
+            try:
+
+                if level == self.max_depth-1:
+                    break
+
+                mean_repr, closest_pair = self.find_closest_and_avg()
+                closest_pair_threshold = closest_pair[1]
+                if closest_pair_threshold <= cut_threshold:
+                    break
+                self.index[frozenset(mean_repr.tolist())] = closest_pair[0]
+                for frozen_set in list(self.index.keys()):
+                    if self.index[frozen_set] in closest_pair[0]:
+                        del self.index[frozen_set]
+                level += 1
+
+            except:
+                break
+
+        clusters = []
+
+        for frozen_set in self.index:
+            item, new_item = self.index[frozen_set], []
+            if not type(item) == int:
+                new_item += [[int(l) for l in list(re.sub(r'[^0-9]+', '', str(sub_item)))] for sub_item in item]
+            else:
+                new_item += [[item]]
+            split_items = [''.join([splits[sub_sub_item] for sub_sub_item in sub_item]) for sub_item in new_item]
+            clusters += split_items
+
+        return clusters
+
+    def prune_splits(self,query,text_splits,top_k=3):
+        
+        neural_net = Neural_Net()
+        query_vector = neural_net.vectorize(query)
+        query_vectors = [query_vector for _ in range(len(text_splits))]
+        split_vectors = [neural_net.vectorize(split) for split in text_splits]
+        similarities = [neural_net.vector_similarity(x[0],x[1]).item() for x in zip(query_vectors,split_vectors)]
+        top_3_idxs = [similarities.index(y) for y in sorted(similarities)[::-1][:top_k]]
+        return '\n ===== \n'.join([text_splits[idx] for idx in top_3_idxs])
+
+class Text_Preprocessor:
+    
+    @staticmethod
+    def text_splitter(text, split_size=4):
+        """
+        splits text into splits of specified size
+        """
+        a, n = text, split_size
+        k, m = divmod(len(a), n)
+        return_list = list(a[i*k+min(i, m):(i+1)*k+min(i+1, m)] for i in range(n))
+        processed_return_list = []
+        for item in return_list:
+            processed_return_list.append(';'.join([sub_item for sub_item in item.split('\n') if item.strip()]))
+
+        return processed_return_list
+
 class Symbolic_Model:
 
     def __init__(self):
