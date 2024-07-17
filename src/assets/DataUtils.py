@@ -19,7 +19,8 @@ class DataLoader:
 	"We have seen an uptick in students coming to the school counselors expressing issue related to anxiety and depression. We currently refer to a community-based clinic for support but the students are not making it to their appointments for various reasons.  We would like to hire a clinician to work in the building. However, there is a group of parents in our district who are resistant to our school providing mental health services.  Can you tell me why it is important to deliver mental health services in schools? How can we increase buy in from the parents in our district?",
 	"Why do schools struggle to integrate school behavioral health services into their MTSS",
 	"Can you share with me, in a simple way, what RTI (Response to Intervention) is? How is it different than MTSS?",
-	"What are the key concepts in implementing an effective integrated MTSS?",
+	"What are the key concepts in implementing an effective integrated MTSS?"],
+	"Clinical_Staff": ["What is MTSS, PBIS, ISF, RTI?  All these acronyms are floating around.  I need succinct answers. My next meeting is in 15 minutes.",
 	]}
 
     system_templates = {
