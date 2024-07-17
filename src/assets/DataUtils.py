@@ -21,7 +21,10 @@ class DataLoader:
 	"Can you share with me, in a simple way, what RTI (Response to Intervention) is? How is it different than MTSS?",
 	"What are the key concepts in implementing an effective integrated MTSS?"],
 	"Clinical_Staff": ["What is MTSS, PBIS, ISF, RTI?  All these acronyms are floating around.  I need succinct answers. My next meeting is in 15 minutes.",
-	]}
+	"I am new to my district and have been invited to join an MTSS team as clinical staff. I am not clear on what they mean when they say I am an MTSS Team member. What is expected of me on this team?",
+	"List the responsibilities of an LPC, LMSW, LMFT within a school building integrated MTSS framework.",
+	"I work in a large school district.  It seems like every student who has an issue, behavior, emotion, and/or mental health is immediately referred to me.  I can’t keep up.  What can I do to inform a more preventative approach in my school?",
+	"My school does not use a universal screening system. What screeners can I recommend for use that capture internalizing and externalizing behavior? Can you give me a list of all available screening tools and a description of each."]}
 
     system_templates = {
         "School_Administrators": """You assist School Administrators whose job role is to ensures there is an MTSS team to design the school-wide implementation process, progress monitoring protocols, and data collection procedures.""",
