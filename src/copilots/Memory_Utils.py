@@ -205,7 +205,7 @@ class Retr:
 class Knowledge_Representation:
 
     @staticmethod
-    def create_data_clusters(article_text):
+    def organize_data(article_text):
         
         cluster_obj = Cluster_Model() #levels default = 4
         text_splits = Text_Preprocessor.text_splitter(article_text)

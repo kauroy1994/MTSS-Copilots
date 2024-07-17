@@ -1,6 +1,6 @@
 import re
 
-class DataLoader:
+class AssetLoader:
 
 	@staticmethod
 	def get_queries():
@@ -22,8 +22,8 @@ class DataLoader:
 		"I work in a large school district.  It seems like every student who has an issue, behavior, emotion, and/or mental health is immediately referred to me.  I cant keep up.  What can I do to inform a more preventative approach in my school?",
 		"My school does not use a universal screening system. What screeners can I recommend for use that capture internalizing and externalizing behavior? Can you give me a list of all available screening tools and a description of each."]
 
-		queries = {"School_Administrators": DataLoader.school_admin_queries,
-		"Clinical_Staff": DataLoader.clinical_staff_queries}
+		queries = {"School_Administrators": school_admin_queries,
+		"Clinical_Staff": clinical_staff_queries}
 
 		return queries
 
