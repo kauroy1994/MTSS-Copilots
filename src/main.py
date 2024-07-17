@@ -7,7 +7,7 @@ from copilots.Agents import LLM
 class MTSS_Copilot:
 
     @staticmethod
-    def simulate_user_query():
+    def simulate_user_turn():
 
         #initialize user
         users_and_queries = AssetLoader.get_queries()
@@ -23,7 +23,7 @@ class MTSS_Copilot:
         #format and organize data -- grounding/alignment w customization
         mtss_text_data = AssetLoader.read_data()
         mtss_data_repr = Knowledge_Representation.organize_data(mtss_text_data)
-        user_role, user_query = MTSS_Copilot.simulate_user_query()
+        user_role, user_query = MTSS_Copilot.simulate_user_turn()
         print (user_role, user_query)
         #-- alignment/instructability w customization
 
