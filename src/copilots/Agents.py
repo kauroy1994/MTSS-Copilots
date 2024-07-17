@@ -13,7 +13,7 @@ class LLM:
 
     def set_prompt(self,system_template=None,user_query=None,context=None,summary_content=None):
 
-        if not summar_content is None:
+        if not summary_content is None:
             prompt = f"""
             Summarize the information below:
 
