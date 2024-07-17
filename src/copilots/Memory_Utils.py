@@ -185,9 +185,9 @@ class Retr:
         retrieves top k context based on symbolic search
         """
         n = len(text_splits)
-        query_vector = symb_model.vectorize(random_question); query_vectors = [query_vector for _ in tqdm(range(n))]
-        split_vectors = [symb_model.vectorize(split) for split in tqdm(text_splits)]
-        similarities = [symb_model.vector_similarity(x[0],x[1]) for x in tqdm(zip(query_vectors,split_vectors))]
+        query_vector = symb_model.vectorize(random_question); query_vectors = [query_vector for _ in range(n)]
+        split_vectors = [symb_model.vectorize(split) for split in text_splits]
+        similarities = [symb_model.vector_similarity(x[0],x[1]) for x in zip(query_vectors,split_vectors)]
         top_idxs = [similarities.index(y) for y in sorted(similarities)[::-1][:top_k]]
         return [text_splits[idx] for idx in top_idxs]
 
