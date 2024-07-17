@@ -61,16 +61,4 @@ class MTSS_Copilot:
         print ('\n ===== INFORMATION SUMMARY ===== \n',summary_agent_response)
 
 if __name__ == '__main__':
-    try:
-        MTSS_Copilot.run_demo()
-        os.system('rm -rf src/assets/__pycache__')
-        os.system('rm -rf src/copilots/__pycache__')
-
-    except RuntimeError as e:
-        print (e)
-        os.system('rm -rf src/assets/__pycache__')
-        os.system('rm -rf src/copilots/__pycache__')
-
-    except KeyboardInterrupt:
-        os.system('rm -rf src/assets/__pycache__')
-        os.system('rm -rf src/copilots/__pycache__')
+    MTSS_Copilot.run_demo()
