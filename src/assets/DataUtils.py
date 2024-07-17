@@ -15,7 +15,12 @@ class DataLoader:
 	"Discuss the barriers to implement an integrated MTSS framework.",
 	"What are the key concepts in implementing an effective integrated MTSS?",
 	"We are just starting with MTSS. What are the core features of the framework. Where should we begin?",
-	"I need family voice that represents our diverse school community.  I have lots of input from a vocal but small minority of parents expressing concerns about integrating positive health and wellness (SEL) in our Tier 1 curriculum. I believe most families are in favor of this, but they are not as vocal. What can I do to get more diverse voices especially around positive health and wellness (SEL)?",]}
+	"I need family voice that represents our diverse school community.  I have lots of input from a vocal but small minority of parents expressing concerns about integrating positive health and wellness (SEL) in our Tier 1 curriculum. I believe most families are in favor of this, but they are not as vocal. What can I do to get more diverse voices especially around positive health and wellness (SEL)?",
+	"We have seen an uptick in students coming to the school counselors expressing issue related to anxiety and depression. We currently refer to a community-based clinic for support but the students are not making it to their appointments for various reasons.  We would like to hire a clinician to work in the building. However, there is a group of parents in our district who are resistant to our school providing mental health services.  Can you tell me why it is important to deliver mental health services in schools? How can we increase buy in from the parents in our district?",
+	"Why do schools struggle to integrate school behavioral health services into their MTSS",
+	"Can you share with me, in a simple way, what RTI (Response to Intervention) is? How is it different than MTSS?",
+	"What are the key concepts in implementing an effective integrated MTSS?",
+	]}
 
     system_templates = {
         "School_Administrators": """You assist School Administrators whose job role is to ensures there is an MTSS team to design the school-wide implementation process, progress monitoring protocols, and data collection procedures.""",
