@@ -33,7 +33,7 @@ class MTSS_Copilot:
 
         llm_response = None
         llm = LLM()
-        llm.set_prompt(system_template="summary template",content=total_information)
+        llm.set_prompt(summary_content=total_information)
         llm_response = llm.respond_to_prompt()
         return llm_response
 

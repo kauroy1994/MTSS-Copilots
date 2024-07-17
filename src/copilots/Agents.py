@@ -11,7 +11,23 @@ class LLM:
             self.groq_client = Groq(api_key=api_key)
             self.groq_model = groq_model
 
-    def set_prompt(self,system_template=None,user_query=None,context=None,content=None):
+    def set_prompt(self,system_template=None,user_query=None,context=None,summary_content=None):
+
+        if not content is None:
+            prompt = f"""
+            Summarize the information below:
+
+            ------ INFORMATION -----
+
+            {summary_content}
+
+            Make sure to respond in JSON format as follows
+            {{"Summary": "your response"}}
+
+            """
+
+            self.prompt = prompt
+            return None
 
         prompt = f"""
         Consider the user query below:
