@@ -166,7 +166,6 @@ class Neural_Net:
         self.vectorize = vectorize
         self.vector_similarity = vector_similarity
 
-
 class Retr:
 
     @staticmethod
@@ -206,7 +205,7 @@ class Retr:
 class Knowledge_Representation:
 
     @staticmethod
-    def create(article_text):
+    def create_data_clusters(article_text):
         
         cluster_obj = Cluster_Model() #levels default = 4
         text_splits = Text_Preprocessor.text_splitter(article_text)

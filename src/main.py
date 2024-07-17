@@ -9,7 +9,7 @@ class MTSS_QA:
     def run_demo():
 
         mtss_text_data = DataLoader.read_data()
-        mtss_data_repr = Knowledge_Representation.create(mtss_text_data)
+        mtss_data_repr = Knowledge_Representation.create_data_clusters(mtss_text_data)
         print (mtss_data_repr)
 
 if __name__ == '__main__':
