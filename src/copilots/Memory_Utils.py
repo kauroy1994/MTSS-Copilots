@@ -103,7 +103,7 @@ class Cluster_Model:
 class Text_Preprocessor:
     
     @staticmethod
-    def text_splitter(text, split_size=4):
+    def text_splitter(text, split_size=50):
         """
         splits text into splits of specified size
         """
@@ -211,4 +211,13 @@ class Knowledge_Representation:
         text_splits = Text_Preprocessor.text_splitter(article_text)
         text_split_vectors = [Neural_Net().vectorize(split) for split in tqdm(text_splits)]
         clusters = cluster_obj.cluster(text_split_vectors)
-        return clusters
+        text_clusters = []
+        print (clusters)
+        for cluster in clusters:
+            idxs = [int(item) for item in cluster.split(';')[:-1]]
+            text_cluster = ''.join([text_splits[idx] for idx in idxs])
+            text_clusters.append(text_cluster)
+
+        print (max([len(item) for item in clusters])); input()
+            
+        return text_clusters

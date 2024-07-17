@@ -40,7 +40,7 @@ class MTSS_Copilot:
             print ('user role:', user_role)
             print ('user_query', user_query)
             
-            agent_instructions, agent_response = MTSS_Copilot.simulate_QA_agent_turn(user_role, user_query, mtss_data_repr)
+            agent_instructions, agent_response = MTSS_Copilot.simulate_QA_agent_turn(user_role, user_query, mtss_text_data)
             print ('\n ===== SYSTEM INSTRUCTIONS ===== \n',agent_instructions)
             print ('\n ===== SYSTEM RESPONSE ===== \n',agent_response)
 

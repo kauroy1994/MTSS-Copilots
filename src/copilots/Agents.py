@@ -61,10 +61,11 @@ class LLM:
                         )
 
             llm_response = llm_response_string = str(chat_completion.choices[0].message.content)
-            json_object_in_response = '{'+response.split('{')[1].split('}')[0]+'}'
+            json_object_in_response = '{'+llm_response.split('{')[1].split('}')[0]+'}'
             return loads(json_object_in_response)
 
-        except Exception:
+        except Exception as e:
+            print (e)
             print ("Unsupported LLM api or JSON parsing error ...")
             exit()
     
