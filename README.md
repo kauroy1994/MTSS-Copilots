@@ -1,2 +1,11 @@
-# MTSS-Copilots
-Implementation of Copilots for the MTSS usecase
+# Documentation
+
+## Setup
+```
+pip install -r requirements.txt
+```
+
+## Navigate to source folder
+```
+cd src
+```
