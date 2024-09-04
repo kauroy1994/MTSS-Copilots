@@ -1,4 +1,0 @@
-faiss_cpu==1.8.0
-sentence-transformers==3.0.1
-pandas==2.2.2
-gradio==4.42.0
