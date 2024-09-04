@@ -10,14 +10,14 @@ pip install -r requirements.txt
 cd src
 ```
 
-## To run a query without any role-based alignment, in the src/main.py file line 33, remove existing line and add
+## To run a query without role-based alignment, in the src/main.py file line containing "Copilot.run", replace with
 ```python
-Copilot.run(config_json,test_query = <query>, role=None)
+response = Copilot.run(config_json,test_query = <query>, role=None)
 ```
 
-## To run a query with role-based alignment, in the src/main.py file line 33, remove existing line and add
+## To run a query with role-based alignment, in the src/main.py file line containing "Copilot.run", replace with
 ```python
-Copilot.run(config_json,test_query = <query>, role=<role>)
+response = Copilot.run(config_json,test_query = <query>, role=<role>)
 ```
 Available roles are:
 ```python

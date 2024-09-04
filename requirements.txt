@@ -1,3 +1,4 @@
 faiss_cpu==1.8.0
 sentence-transformers==3.0.1
 pandas==1.16.0
+gradio==4.42.0

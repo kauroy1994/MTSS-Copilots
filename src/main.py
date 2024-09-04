@@ -1,4 +1,5 @@
 import json, os
+import gradio as gr
 from models.NLPModels import LLM
 from miscellaneous.PrintUtils import Format
 from miscellaneous.FileIO import JSON
@@ -22,12 +23,21 @@ class Copilot:
             Faiss.create_index(database)
             test_query = "What is MTSS?"
             score, response2 = Faiss.search(test_query,database)
-            print ('\n',Format.green(response1),'\n\n',Format.green(response2))
+            return ('\n'+Format.green(response1)+'\n\n'+Format.green(response2))
         else:
-            print ('\n',Format.green(response1))
+            return ('\n'+Format.green(response1))
 
 if __name__ == '__main__':
 
+    GRADIO = False
+
     config_json = JSON.read_from_path('config.json')
     #roles: ['admin','clinical_staff','school_counselor','school_psych','teachers']
-    Copilot.run(config_json,test_query = "What is MTSS?", role='admin')
+    response = Copilot.run(config_json,test_query = "What is MTSS?", role='admin')
+    print (response)
+
+    if GRADIO:
+        def response(test_query, role):
+            return Copilot.run(config_json,test_query = test_query, role=role)
+
+        gr.ChatInterface(response(test_query = "What is MTSS?", role='admin')).launch()
