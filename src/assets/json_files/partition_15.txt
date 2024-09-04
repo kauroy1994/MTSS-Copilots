@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is the Wraparound process in schools?",
+        "answer": "The Wraparound process in schools is a customized approach that builds on the values, preferences, beliefs, culture, and identity of the student, their family, and their community. It involves developing and implementing strategies, supports, and services tailored to the unique strengths and needs of each student. This process encourages full participation of family members and community networks, leading to more relevant and successful interventions."
+    },
+    {
+        "question": "Why is culturally competent practice important in school-based case management?",
+        "answer": "Culturally competent practice in school-based case management is important because it promotes acceptance of resources, ensures consistent participation in interventions, and eliminates barriers related to language, communication, and family engagement. This approach improves therapeutic decision-making, offers alternative ways to define and plan treatment, and helps address persistent disparities in mental health services for underserved populations."
+    },
+    {
+        "question": "What are the key components of a treatment plan in a school setting?",
+        "answer": "The key components of a treatment plan in a school setting include: 1) Student History, 2) Strengths and Interests, 3) Areas of Opportunity, 4) Goals and Objectives, 5) Plan of Action, and 6) Student/Family Agreement. These components help in developing a comprehensive plan that is individualized, evidence-based, and culturally sensitive."
+    },
+    {
+        "question": "What is the role of families in the treatment planning process in schools?",
+        "answer": "Families play a critical role in the treatment planning process in schools by providing information about a student's background, observing their behavior at home, and partnering in the implementation of treatment plans. Family involvement is essential to building strong relationships, increasing the effectiveness of treatment, and helping students reach their full potential."
+    },
+    {
+        "question": "What are Behavior Intervention Plans (BIPs) and how are they used in schools?",
+        "answer": "Behavior Intervention Plans (BIPs) in schools are formal documents developed to reduce challenging behaviors in students. BIPs are typically informed by Functional Behavioral Assessments (FBAs) and include strategies such as replacement behaviors, positive reinforcement, and environmental changes. These plans are used to support positive behavior and prevent problem behavior, often as part of a student's Individualized Education Plan (IEP)."
+    },
+    {
+        "question": "What is the difference between an Individualized Education Plan (IEP) and a 504 Plan?",
+        "answer": "An Individualized Education Plan (IEP) is a formal document outlined by the Individuals with Disabilities Education Act (IDEA) that provides specialized services, accommodations, and goals for students with disabilities. A 504 Plan, based on Section 504 of the Americans with Disabilities Act (ADA), primarily focuses on accommodations to ensure equal opportunities for students with disabilities. While IEPs address academic and behavioral deficits, 504 Plans concentrate on accommodations and are available to a broader range of students, including those with physical or mental impairments that substantially limit major life activities."
+    },
+    {
+        "question": "What are the ABCs of behavior and how are they used in schools?",
+        "answer": "The ABCs of behavior refer to Antecedents, Behaviors, and Consequences, a framework used in schools to identify patterns and root causes of student behaviors. Antecedents are events or triggers that occur before a challenging behavior, behaviors are the specific actions exhibited by the student, and consequences are the outcomes that follow the behavior. This data is used to develop interventions and support positive behavior in students."
+    },
+    {
+        "question": "What are the benefits of using evidence-based therapies (EBTs) in school settings?",
+        "answer": "The benefits of using evidence-based therapies (EBTs) in school settings include improved social and emotional skills, better communication skills, enhanced prosocial behaviors, and positive academic outcomes. EBTs help students develop a better attitude toward self and others, express emotions effectively, and engage more positively in their school community."
+    },
+    {
+        "question": "What challenges might schools face in engaging families in the treatment planning process?",
+        "answer": "Schools might face challenges in engaging families in the treatment planning process due to scheduling conflicts, transportation and childcare issues, lack of resources, ruptures in trust between the school and families, stereotyping, and language barriers. Addressing these challenges requires flexibility, building positive relationships, providing mental health education, and utilizing motivational strategies."
+    },
+    {
+        "question": "Why is the use of strengths-based language important in developing treatment plans for students?",
+        "answer": "The use of strengths-based language in developing treatment plans for students is important because it helps to reduce stigma, promote growth, and positively influence the culture around mental health discussions. Strengths-based language creates a more complete view of students by focusing on their strengths and positive attributes, rather than only highlighting deficits, which can support students' self-esteem and encourage positive behaviors."
+    }
+]

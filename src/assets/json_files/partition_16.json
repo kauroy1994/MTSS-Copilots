@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is the consequence in the ABCs of behavior analysis?",
+        "answer": "The consequence is the result of the behavior, including what happened after the behavior, what interactions occurred, what the child was provided or not provided access to, and who was involved. Consequences greatly impact the likelihood of the behavior happening again and help determine the function of the behavior."
+    },
+    {
+        "question": "What is positive reinforcement in behavior management?",
+        "answer": "Positive reinforcement is a tool in behavior management that increases the likelihood of a behavior occurring again. It is most effective when delivered immediately and consistently after the desired behavior. For example, if a child completes their homework and receives a gold sticker, they are more likely to do their homework again in the future. Verbal praise and rewards like video game time can also be effective forms of positive reinforcement."
+    },
+    {
+        "question": "What is negative reinforcement in behavior management?",
+        "answer": "Negative reinforcement increases the likelihood of a behavior occurring again by taking away something undesirable. For example, if a student uses profanity to avoid a test and is sent to the office, the behavior is reinforced because the student avoids the unwanted activity. Other examples include reducing demands or providing homework passes."
+    },
+    {
+        "question": "What is positive punishment in behavior management?",
+        "answer": "Positive punishment reduces the likelihood of a behavior occurring again by adding something undesirable. Examples include assigning additional homework problems, chores, or giving a verbal reprimand. It is important to note that physical punishment is not recommended as it does not teach the necessary skills, only what not to do."
+    },
+    {
+        "question": "What is negative punishment in behavior management?",
+        "answer": "Negative punishment reduces the likelihood of a behavior occurring by taking away something desirable. For example, a parent taking away a child's cellphone or a student having a silent lunch instead of talking with friends. The behavior is less likely to happen again because it results in losing something the child values."
+    },
+    {
+        "question": "What is environmental modification in behavior management?",
+        "answer": "Environmental modification is a preventive strategy that helps manage antecedents in behavior. For example, if a child hits classmates during a frustrating game, reducing access to that game can help manage the behavior. Other examples include removing uncomfortable stimuli, changing seating arrangements, and modifying demands."
+    }
+]
