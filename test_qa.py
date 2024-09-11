@@ -15,8 +15,8 @@ nlp = spacy.load("en_core_web_sm")
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Define similarity thresholds
-NEURAL_SIMILARITY_THRESHOLD = 0.6  # Neural similarity threshold
-TRIPLE_SIMILARITY_THRESHOLD = 0.5  # Knowledge graph (triple-based) similarity threshold
+NEURAL_SIMILARITY_THRESHOLD = 0.0  # Neural similarity threshold
+TRIPLE_SIMILARITY_THRESHOLD = 0.0  # Knowledge graph (triple-based) similarity threshold
 
 
 def load_json_data(file_path: str) -> List[dict]:
