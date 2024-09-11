@@ -1,6 +1,0 @@
-{"GRADIO": "True", 
-"query": "What is MTSS?",
-"role":"admin",
-"LLM_config":"None", 
-"data_folder_path": "/assets/json_files"
-}
