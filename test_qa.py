@@ -14,6 +14,11 @@ nlp = spacy.load("en_core_web_sm")
 # Initialize the SentenceTransformer model
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
+# Define similarity thresholds
+NEURAL_SIMILARITY_THRESHOLD = 0.6  # Neural similarity threshold
+TRIPLE_SIMILARITY_THRESHOLD = 0.5  # Knowledge graph (triple-based) similarity threshold
+
+
 def load_json_data(file_path: str) -> List[dict]:
     """
     Load JSON data from the given file path.
@@ -89,6 +94,21 @@ def extract_triples(text: str) -> List[Tuple[str, str, str]]:
     return triples
 
 
+def triple_similarity(query_triples: List[Tuple[str, str, str]], answer_triples: List[Tuple[str, str, str]]) -> float:
+    """
+    Calculate the similarity between two lists of triples (subject-verb-object).
+
+    :param query_triples: SVO triples extracted from the query.
+    :param answer_triples: SVO triples extracted from an answer.
+    :return: A similarity score between 0 and 1 based on matching triples.
+    """
+    matches = 0
+    for query_triple in query_triples:
+        if query_triple in answer_triples:
+            matches += 1
+    return matches / len(query_triples) if query_triples else 0.0
+
+
 def format_knowledge_panel(triples: List[Tuple[str, str, str]]) -> str:
     """
     Format extracted triples into a knowledge panel.
@@ -129,7 +149,7 @@ def plot_top_matches(matched_questions: List[str], similarity_scores: np.ndarray
 
 def search_and_visualize(query: str) -> Tuple[str, str, str, str, Image.Image, str]:
     """
-    Handle the query search and visualization of results.
+    Handle the query search and visualization of results with a filtering mechanism.
 
     :param query: The search query input by the user.
     :return: Tuple containing matched question, answer, knowledge panels, top matches image, and suggested queries.
@@ -148,9 +168,20 @@ def search_and_visualize(query: str) -> Tuple[str, str, str, str, Image.Image, s
         matched_answers = [answers[idx] for idx in top_idx]
         similarity_scores = similarities[top_idx].cpu().numpy().copy()
 
+        # Check if the highest similarity score is above the threshold
+        if similarity_scores[0] < NEURAL_SIMILARITY_THRESHOLD:
+            return "Sorry, we don't have sufficient information to answer this query.", "", "", "", None, '\n'.join(questions)
+
         # Step 3: Extract triples for the top answer and the query
         query_triples = extract_triples(query)
         answer_triples = extract_triples(matched_answers[0])
+
+        # Calculate knowledge-graph-based similarity
+        triple_sim = triple_similarity(query_triples, answer_triples)
+
+        # If the triple similarity is below the threshold, return boilerplate response
+        if triple_sim < TRIPLE_SIMILARITY_THRESHOLD:
+            return "Sorry, we don't have sufficient information to answer this query.", "", "", "", None, '\n'.join(questions)
 
         # Step 4: Format knowledge panels
         query_knowledge_panel = format_knowledge_panel(query_triples)
