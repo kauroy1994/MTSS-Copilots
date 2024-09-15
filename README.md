@@ -25,8 +25,8 @@ This is a **Question-Answer Knowledge Search System** that processes queries, re
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/question-answer-knowledge-search.git
-cd question-answer-knowledge-search
+git clone <repository_url>.git
+cd <respository_name>
 ```
 
 ### 2. Install Dependencies
