@@ -12,5 +12,5 @@ python -m spacy download en_core_web_sm
 
 ## ▶️ Running the code
 ```
-python <file_name>.py
+python src/<file_name>.py
 ```
