@@ -1,0 +1,2225 @@
+[
+    {
+        "query": "Q1. What is MTSS, PBIS, ISF, RTI?  All these acronyms are floating around.  I need succinct answers. My next meeting is in 15 minutes.",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "1",
+                "4": "4"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "1",
+                "1": "3",
+                "2": "3",
+                "3": "3",
+                "4": "1"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q2. I am new to my district and have been invited to join an MTSS team. I am not clear on what they mean when they say I am an MTSS Team member. What is expected of me on this team?",
+        "entities": {
+            "id": {
+                "0": "3",
+                "1": "5",
+                "2": "6",
+                "3": "1",
+                "4": "4"
+            },
+            "entity": {
+                "0": "MTSS",
+                "1": "CRISIS RESPONSE",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "",
+                "1": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "3",
+                "1": "1",
+                "2": "0",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "1",
+                "1": "2",
+                "2": "2",
+                "3": "2",
+                "4": "1"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q3. List the responsibilities of an LPC, LMSW, LMFT within a school building integrated MTSS framework.",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "1",
+                "4": "4"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "1",
+                "1": "2",
+                "2": "2",
+                "3": "2",
+                "4": "1"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q4. I work in a large school district.  It seems like every student who has an issue, behavior, emotion, and/or mental health is immediately referred to me.  I can\u2019t keep up.  What can I do to inform a more preventative approach in my school?",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "6",
+                "2": "3",
+                "3": "4",
+                "4": "1"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "MTSS",
+                "3": "ACADEMY",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "2": "",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "0",
+                "2": "3",
+                "3": "2",
+                "4": "3"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "2",
+                "1": "2",
+                "2": "2",
+                "3": "2",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q5. My school does not use a universal screening system. What screeners can I recommend for use that capture internalizing and externalizing behavior? Can you give me a list of all available screening tools and a description of each.",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "1",
+                "4": "4"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "1",
+                "1": "3",
+                "2": "3",
+                "3": "3",
+                "4": "1"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q6. Discuss the most prominent universal social emotional behavioral health screeners used by school districts. Compare and contrast.",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "1",
+                "4": "4"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "1",
+                "1": "3",
+                "2": "3",
+                "3": "3",
+                "4": "1"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q7. I am worried that my district\u2019s protocol for suicide prevention is not good.  Can you tell me what things should be in the suicide protocol and who should be involved? Can you also provide me examples of safe protocols?",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "1",
+                "4": "4"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "1",
+                "1": "3",
+                "2": "3",
+                "3": "3",
+                "4": "1"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q8. List and describe evidenced based strategies for de-escalation in a classroom setting",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "1",
+                "4": "4"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "1",
+                "1": "2",
+                "2": "2",
+                "3": "2",
+                "4": "1"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q9. My district recently experienced a death by suicide of a student. This is impacting the students, teachers, and the staff.  What resources are available? What is my role?",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "4",
+                "4": "1"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "ACADEMY",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "2",
+                "4": "3"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "2",
+                "1": "3",
+                "2": "3",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q10. Please give examples of effective Tier 1 mental health strategies for schools experiencing  community trauma (insert examples of community trauma)",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "1",
+                "4": "4"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "1",
+                "1": "2",
+                "2": "2",
+                "3": "2",
+                "4": "1"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q11. Hey, I need your help with working with a client who presents with anger management issues.  He is a 16 year old male who reports that he only has significant outbursts of uncontrollable anger when \u201cprovoked by authority figures\u201d.  I am aware the anger is a defense mechanism due to his lack of relational connectedness, limited emotional support, and being significantly let down by his family of origin as well as many people he has trusted over the years.  What do you recommend? Who else at the school can support?",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "4",
+                "2": "3",
+                "3": "6",
+                "4": "1"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "ACADEMY",
+                "2": "MTSS",
+                "3": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "2": "",
+                "3": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "2",
+                "2": "3",
+                "3": "0",
+                "4": "3"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "2",
+                "1": "3",
+                "2": "3",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q12. When is the best time for me to pull students for their sessions? Are there other ways that I can monitor them in between sessions?",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "4",
+                "4": "1"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "ACADEMY",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "2",
+                "4": "3"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "2",
+                "1": "2",
+                "2": "2",
+                "3": "2",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q13. My school is asking for me to share data on the students I see for Tier 3 services.  I am not sure how to remain compliant with HIPPA and FERPA while also providing the MTSS team what they need for progress monitoring and information to support program identification at Tier 1 and Tier 2, can you advise.",
+        "entities": {
+            "id": {
+                "0": "3",
+                "1": "5",
+                "2": "6",
+                "3": "4",
+                "4": "1"
+            },
+            "entity": {
+                "0": "MTSS",
+                "1": "CRISIS RESPONSE",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "ACADEMY",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "description": {
+                "0": "",
+                "1": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "3",
+                "1": "1",
+                "2": "0",
+                "3": "2",
+                "4": "3"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "2",
+                "1": "2",
+                "2": "2",
+                "3": "2",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q14. My services fall into tier 2 and 3 of our MTSS.  I am wondering how I can be more involved at Tier 1.",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "4",
+                "4": "1"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "ACADEMY",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "2",
+                "4": "3"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "2",
+                "1": "2",
+                "2": "2",
+                "3": "2",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q15. I want to start a peer support program in my district.  I am not sure where to start or how to communicate the need to other MTSS team members.  What programs do you recommend and what things should I consider before and during implementation.",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "4",
+                "4": "1"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "ACADEMY",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "2",
+                "4": "3"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "2",
+                "1": "3",
+                "2": "3",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q16. I am a mental health provider interested in working within the school district. Please provide a list of professional development options so that I may become more familiar with mental health practices within the schools.",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "4",
+                "4": "1"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "ACADEMY",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "2",
+                "4": "3"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "2",
+                "1": "2",
+                "2": "2",
+                "3": "2",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q17. I am a school social worker. What are some ways I can assist educators with Tier 1 interventions and implementation?",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "1",
+                "4": "4"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "1",
+                "1": "2",
+                "2": "2",
+                "3": "2",
+                "4": "1"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q18. What are some non-profit organizations near me? (for social worker to partner with for donations for backpack program, clothing, etc. for students and families in need)",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "4",
+                "4": "1"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "ACADEMY",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "2",
+                "4": "3"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "2",
+                "1": "3",
+                "2": "3",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    },
+    {
+        "query": "Q19. Can you describe what PCOMs is and how clinicians use it in schools?",
+        "entities": {
+            "id": {
+                "0": "5",
+                "1": "3",
+                "2": "6",
+                "3": "1",
+                "4": "4"
+            },
+            "entity": {
+                "0": "CRISIS RESPONSE",
+                "1": "MTSS",
+                "2": "SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "3": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention",
+                "1": "",
+                "2": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community",
+                "3": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community",
+                "4": "The Academy encourages greater involvement with the broader Southeastern School Behavioral Health Community"
+            },
+            "number of relationships": {
+                "0": "1",
+                "1": "3",
+                "2": "0",
+                "3": "3",
+                "4": "2"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "relationships": {
+            "id": {
+                "0": "2",
+                "1": "3",
+                "2": "5",
+                "3": "0",
+                "4": "4"
+            },
+            "source": {
+                "0": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "1": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY",
+                "2": "TIER 3 COURSE",
+                "3": "SBHA",
+                "4": "SOUTHEASTERN SCHOOL BEHAVIORAL HEALTH COMMUNITY"
+            },
+            "target": {
+                "0": "MTSS",
+                "1": "TIER 3 COURSE",
+                "2": "MTSS",
+                "3": "TIER 3 COURSE",
+                "4": "ACADEMY"
+            },
+            "description": {
+                "0": "The MTSS framework aligns with best practices in crisis response and suicide prevention, which is encouraged by the Southeastern School Behavioral Health Community",
+                "1": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Tier 3 course",
+                "2": "The MTSS framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course",
+                "3": "The SBHA team created assets for a comprehensive PDF document related to the Tier 3 course",
+                "4": "The Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts"
+            },
+            "weight": {
+                "0": "4.0",
+                "1": "3.0",
+                "2": "1.0",
+                "3": "2.0",
+                "4": "1.0"
+            },
+            "rank": {
+                "0": "6",
+                "1": "6",
+                "2": "6",
+                "3": "5",
+                "4": "5"
+            },
+            "links": {
+                "0": "1",
+                "1": "2",
+                "2": "2",
+                "3": "2",
+                "4": "1"
+            },
+            "in_context": {
+                "0": true,
+                "1": true,
+                "2": true,
+                "3": true,
+                "4": true
+            }
+        },
+        "reports": {
+            "id": {
+                "0": "0"
+            },
+            "title": {
+                "0": "Southeastern School Behavioral Health Community"
+            },
+            "content": {
+                "0": "# Southeastern School Behavioral Health Community\n\nThe Southeastern School Behavioral Health Community is a network of entities focused on promoting behavioral health and crisis response within schools. The community is centered around the MTSS framework, which aligns with best practices in crisis response and suicide prevention.\n\n## MTSS is a key framework for the community\n\nThe MTSS framework is at the heart of the Southeastern School Behavioral Health Community. It aligns with best practices in crisis response and suicide prevention, making it a crucial component of the community's efforts [Data: Relationships (2); Entities (3)]. The framework allows the system to be proactive in screening and referring students at risk of suicide, which is related to the Tier 3 course [Data: Relationships (5)].\n\n## The Southeastern School Behavioral Health Community encourages involvement with the broader community\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through various initiatives. The community promotes collaboration between schools, organizations, and individuals to promote behavioral health and crisis response [Data: Relationships (2, 3); Entities (1)]. This emphasis on community involvement contributes to the community's high impact severity rating.\n\n## Crisis Response is a significant aspect of the community\n\nThe Southeastern School Behavioral Health Community places a strong focus on crisis response and suicide prevention. The MTSS framework aligns with best practices in this area, making it a critical component of the community's efforts [Data: Relationships (6); Entities (5)]. This emphasis on crisis response contributes to the community's high impact severity rating.\n\n## The Academy plays a role in promoting behavioral health\n\nThe Southeastern School Behavioral Health Community encourages greater involvement with the broader community through the Academy's efforts [Data: Relationships (4)]. The Academy promotes behavioral health and crisis response within schools, making it an important part of the community.\n\n## Tribune Spotlight reports on the Unity March\n\nTribune Spotlight is reporting on the Unity March taking place in Verdant Oasis Plaza [Data: Relationships (40)]. This suggests that the event has attracted media attention, which could amplify its impact on the community. The role of Tribune Spotlight could be significant in shaping public perception of the event and the entities involved.\n\n## The Unity March is a significant event\n\nThe Unity March is a significant event taking place at Verdant Oasis Plaza [Data: Relationships (39)]. This event is a key factor in the community's dynamics and could be a potential source of threat, depending on the nature of the march and the reactions it provokes."
+            }
+        },
+        "sources": {
+            "id": {
+                "0": "203"
+            },
+            "text": {
+                "0": "\nwellbeing promotion for all and early identi\ufb01cation of students at risk.\nMTSS can support crisis management through its use of teaming. Teaming aligns\nwith best practices in crisis response and suicide prevention. The MTSS framework\nallows the system to be proactive in screening and referring students at risk of\nsuicide.\nBefore you go\nAs a valuable conclusion to this lesson, we have prepared two\ncomprehensive PDF documents for you  One includes all the\nessential links covered throughout this course, and the other\nincorporates assets meticulously crafted by our dedicated\nSBHA team.\nGrowing Your Tier 3 Supports Assets Created by the SBHA.pdf\n128.2 KB\nGrowing Your Tier 3 Supports Lesson Links.pdf\n187.9 KB\nGo ahead and get connected with us on social media: Twitter, Instagram, and Facebook.\nThe Academy also encourages greater involvement with the broader Southeastern School\nBehavioral Health Community to increase connections throughout the Southeast and the\nnation. We are all in this together\nCongratulations\nYou have completed the Tier 3 course. Great work\nEXIT COURSE\n"
+            }
+        }
+    }
+]
